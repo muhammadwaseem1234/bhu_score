@@ -1,0 +1,6 @@
+{
+  "name": "BhuScore — Land Parcel Credit Bureau",
+  "description": "India's Land Parcel Credit Bureau keyed by ULPIN, geo-polygons, ownership chains, CERSAI encumbrance charges, eCourts litigation history, risk scoring and automated watchlist alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
